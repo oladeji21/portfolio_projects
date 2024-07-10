@@ -9,18 +9,10 @@ External Links: The document will link to external CSS and JavaScript files whic
 Music Player Container: The div element with the class music-player will encapsulate all components of the music player.
 Key Divisions in HTML:
 info: This div will house the control icons for shuffle, heart, repeat, and share functionalities.
-jp-playlist: This div will include an unordered list (ul) that dynamically displays the track names.
 progress: This div will show the progress of the currently playing track.
 controls: This div will have buttons for controlling playback, including previous, play, pause, and next.
 volume-level: This div will include buttons to manage the volume.
-External JavaScript Libraries:
-The JavaScript files referenced in our HTML are critical for the player’s functionality. These include:
 
-jQuery
-jQuery UI
-jPlayer
-jPlayer Playlist
-These libraries enable the interactive and dynamic aspects of the music player.
 
 CSS Styling
 Next, we’ll enhance the visual appeal of our music player with CSS. This will involve setting dimensions for the player, as well as defining the font size, color, and margins for various elements to ensure a clean and spacious look.
